@@ -1,0 +1,10 @@
+name: autodock
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - biopython
+  - matplotlib
+  - numpy
+  - autodock=1.1.2
