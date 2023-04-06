@@ -7,4 +7,4 @@ dependencies:
   - biopython
   - matplotlib
   - numpy
-  - autodock_vina
+  - autodock-vina
