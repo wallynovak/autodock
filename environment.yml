@@ -2,7 +2,7 @@ name: autodock
 channels:
   - conda-forge
   - bioconda
-  - insilichem
+  - josan_bcn
   - defaults
 dependencies:
 #  - biopython
