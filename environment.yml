@@ -2,11 +2,12 @@ name: autodock
 channels:
   - conda-forge
   - bioconda
+  - insilichem
   - defaults
 dependencies:
 #  - biopython
   - matplotlib
   - numpy
   - autodock-vina
-  - insilichem autodocktools-prepare
+  - autodocktools-prepare
   - python>=3.8
