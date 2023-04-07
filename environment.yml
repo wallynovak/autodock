@@ -4,9 +4,9 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - biopython
+#  - biopython
   - matplotlib
   - numpy
   - autodock-vina
-  - autodocktools-prepare
+  - insilichem autodocktools-prepare
   - python>=3.8
