@@ -9,4 +9,5 @@ dependencies:
   - numpy
   - autodock-vina
   - mgltools
+  - autodocktools
   - python>=3.8
