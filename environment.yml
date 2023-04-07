@@ -6,8 +6,8 @@ channels:
   - defaults
 dependencies:
 #  - biopython
-  - matplotlib
-  - numpy
-  - autodock-vina
+#  - matplotlib
+#  - numpy
+#  - autodock-vina
   - autodocktools-prepare
 #  - python=2.8
