@@ -8,6 +8,5 @@ dependencies:
   - matplotlib
   - numpy
   - autodock-vina
-  - mgltools
-  - autodocktools
+  - autodocktools-prepare
   - python>=3.8
