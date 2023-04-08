@@ -2,12 +2,11 @@ name: autodock
 channels:
   - conda-forge
   - bioconda
-  - josan_bcn
   - defaults
 dependencies:
 #  - biopython
-#  - matplotlib
-#  - numpy
-#  - autodock-vina
-  - autodocktools-prepare
-#  - python=2.8
+   - matplotlib
+   - numpy
+   - autodock-vina
+#  - autodocktools-prepare ### this does not install
+   - python
